@@ -10,16 +10,18 @@ User data is stored outside the readable web scope so only the API with an API k
 * Download the latest release.<br>
 
 * Unzip the file and move it to `/var/www`. This is assuming you are using an Apache server.<br>
-* What will get installed:
+What will get installed:
 *   `PHP, PHP-PEAR, COMPOSER, NPM, PHP-APACHE`
-* To install:
+To install:
 *  `sudo apt install php`
 *  `sudo apt install php-pear`
 *  `sudo apt install composer`
 *  `sudo apt install npm`
-* <br>
-* <br>
+  <br>
+ <br>
+Now cd back into your virtualPass directory and run: 
 * Install the composer dependinces by running `composer install`<br>
+Next:
 * Configure your server to run PHP code and tell it the website DIR is at `/var/www/VirtualPass/src/`.
 ***
 ## Setup
