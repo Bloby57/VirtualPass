@@ -10,6 +10,9 @@ User data is stored outside the readable web scope so only the API with an API k
 * Download the latest release.<br>
 
 * Unzip the file and move it to `/var/www`. This is assuming you are using an Apache server.<br>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 What will get installed:
 *   `PHP, PHP-PEAR, COMPOSER, NPM, PHP-APACHE`
 To install:
