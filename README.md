@@ -14,12 +14,14 @@ User data is stored outside the readable web scope so only the API with an API k
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What will get installed:
-*   `PHP, PHP-PEAR, COMPOSER, NPM, PHP-APACHE`
+*   `PHP, PHP-PEAR, COMPOSER, NPM, MYSQL`
 To install:
+*  `sudo apt install apache2`
 *  `sudo apt install php`
 *  `sudo apt install php-pear`
 *  `sudo apt install composer`
 *  `sudo apt install npm`
+*  `sudo apt install mysql`
   <br>
  <br>
 Now cd back into your virtualPass directory and run: 
