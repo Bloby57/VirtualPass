@@ -23,6 +23,7 @@ To install:
 *  `sudo apt install npm`
 *  `sudo apt install mysql`
   <br>
+***
  <br>
 Now cd back into your virtualPass directory and run: 
 * Install the composer dependinces by running `composer install`<br>
