@@ -53,10 +53,10 @@ if (isset($_COOKIE['adminCookie']) and adminCookieExists($config['sqlUname'], $c
             <div id="mainEmbed" class='main'>
 
             </div>
-            <!---
+            
             <div class="chart-container""><canvas id="myChart" width="400" height="200"></canvas><script src="/include/chart_config.js"></script></div>
             <iframe id='mainEmbed' src='/admin/'> </iframe>
-            -->
+            
         </div>
     </div>
 

@@ -1,17 +1,17 @@
 {
     "sqltools.connections": [
         {
-            "mysqlOptions": {
-                "authProtocol": "default"
-            },
             "previewLimit": 50,
             "server": "localhost",
             "port": 3306,
             "driver": "MariaDB",
             "name": "localhost",
-            "database": "VirtualPass",
+            "database": "virtualpass",
             "username": "root",
-            "password": "root"
+            "password": "new_password",
+            "mysqlOptions": {
+                "authProtocol": "default",
+            }
         }
     ]
 }
