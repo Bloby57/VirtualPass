@@ -21,10 +21,8 @@ To install:
 *  `sudo apt install php-pear`
 *  `sudo apt install composer`
 *  `sudo apt install npm`
-*  `sudo apt install mysql`
+*  `sudo apt install mysql`<br>
 
-<br>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***
 What next?
 
