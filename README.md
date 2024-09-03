@@ -33,9 +33,21 @@ Next:
 ***
 ## Setup
 * go into your config file located at `/var/www/VirtualPass/config/config.ini`.
-* Specify settings you want. Descriptions of the settings can be found [here](https://github.com/Duedot43/VirtualPass/wiki).
-* Next go to the VirtualPass website you just set up with your Apache server and log into the teacher portal using the username and password you made in the configuration file.
-* Now click the `Make Your Room` button and type the number of the room you are in.
-* It will generate a QR code that you can download, print, then integrate in the classroom.
-* You must do this for every classroom.
+* Specify settings you want. Descriptions of the settings can be found [here](https://github.com/Duedot43/VirtualPass/wiki). <br>
+### Sql Setup
+* If you have phpmyadmin then go into it and use the included .sql file to import into a new table
+* ( If you do not import it there will be no way to access the website until you add it! )<br>
+### Logging in
+* For logging in please go to: `'http://<your_website>/admin/login.html` or `'http://<your_website>/login.html`
+* Nest use the admin account: username: `root` and password: `root` to login
+* now you are in! <br>
+### Making a Room
+* First, login to the admin portal
+* Next click on `Add Room` on the left sidebar
+* Then enter the room number for the new room
+* Then click `ok`
+* (NOTE) It will generate a QR code that you can download, print, then integrate in the classroom.
+* after it loads you should see: `https://<your_website>/?room=<room_number>`
+* below it should show `Download QR code` you can click it to download the qr code for printing
+### You must do this for EVERY classroom!
 
