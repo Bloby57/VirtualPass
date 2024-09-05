@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Duedot43/VirtualPass/9964b06f96132ceec968d2db11fc68c2f3a31fe8/src/Images/preview.png" width="100" height=auto onclick='location="https://virtualpass.net"'></img><br>
-**Welcome to VirtualPass, a simple yet effective Virtual Hall Pass manager**<br>
+**Welcome to VirtualPass, a simple yet effective Virtual Hall Pass manager Originally made by: `Duedot43`**<br>
 ***
 ## What is VirtualPass?
 VirtualPass is a simple website for checking in or out students from a classroom with a scan and go system based off of QR codes.<br><br>
