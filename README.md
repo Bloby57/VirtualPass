@@ -6,7 +6,13 @@ VirtualPass is a simple website for checking in or out students from a classroom
 VirtualPass is very easy to set up and requires no third party dependencies, it supplies easy to visualize graphs and system configuration right from the web page.<br><br>
 User data is stored outside the readable web scope so only the API with an API key can access this data.<br><br>
 ***
-## Installation
+
+## For testing on windows:
+
+If you would like to test it on windows before using please use this githubs zip and set paths and you can run it!
+
+***
+## Installation on server
 * Download the latest release.<br>
 
 * Unzip the file and move it to `/var/www`. This is assuming you are using an Apache server.<br>
